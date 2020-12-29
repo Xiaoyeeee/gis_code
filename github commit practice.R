@@ -1,7 +1,4 @@
 #github commit way2
-<<<<<<< HEAD
-#add second comment
-=======
 #add second comment
 
 x <- 1+1
